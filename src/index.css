@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cal+Sans&display=swap');
+@import "tailwindcss";
+@theme {
+    /* Color Palette */
+    --color-primary: #ffffff;
+    --color-link: #60a5fa;
+    --color-link-transparent: rgba(37, 99, 235, 0.1);
+    --color-highlight: #fef9c3;
+
+    /* Background Colors */
+    --color-background-primary: #05070f;
+    --color-background-secondary: #0e101e;
+    --color-background-tertiary: #121424;
+    --color-background-muted: #1a1e32;
+
+    /* Border Colors */
+    --color-border-primary: #29325b;
+    --color-border-secondary: #323c71;
+    --color-border-highlight: #4649af;
+
+    /* Gradients */
+    --color-gradient-start: #9580ff;
+    --color-gradient-end: #80ffea;
+
+    --font-cal: "Cal Sans", "sans-serif";
+
+}
+
